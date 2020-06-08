@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">Dice Roller</string>
+	<string name="roll_label">Roll</string>
+	<string name="reset_label">Reset</string>
+	<string name="text_field">\?</string>
+	<string name="pick_prompt">Pick the number of sides for die no.</string>
+</resources>
